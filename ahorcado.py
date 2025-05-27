@@ -1,7 +1,7 @@
 import random 
 
 def ahorcado():
-    palabras = ["python", "computadora", "programacion", "inteligencia", "algoritmo", "codigo"]
+    palabras = ["rana", "computadora", "programacion", "inteligencia", "algoritmo", "codigo"]
     palabra_secreta = random.choice(palabras)
     letras_adivinadas = set()
     letras_erradas = set()
