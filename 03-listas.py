@@ -96,3 +96,8 @@ print(ramos)
 #Key es una propiedad del método sort y se pasa un valor que es el método len
 ramos.sort(key=len)
 print(ramos)
+
+#OCUPANDO EL METODO EXTEND (EXTENDIENDO UNA LISTA A PARTIR DE OTRA)
+ramitos = ['Cálculo','Autómatas']
+ramos.extend(ramitos)
+print(ramos)
