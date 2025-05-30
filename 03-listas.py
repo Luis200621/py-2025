@@ -54,6 +54,7 @@ print (ramos.count("Programación"))
 
 print ("Ahora veremos las tuplas")
 #Las tuplas no se pueden modificar y eliminar
+
 #CREANDO UNA TUPLA
 tupla = tuple ()
 estudiantes2 = ("Samir", "Ivan", "Ian")
@@ -68,7 +69,7 @@ print (estudiantes2.index ("Ivan"))
 conjunto_vacio = set()
 print (type(conjunto_vacio))
 
-colores = {"Azul", "Rojo", "Verde", "Azul", 34}
+colores = {"Azul", "Rojo", "Verde", "Azul"}
 print (colores)
 
 #funcion APPEND agrega un elemento al final de la lista
