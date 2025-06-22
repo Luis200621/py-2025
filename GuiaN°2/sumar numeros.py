@@ -1,3 +1,5 @@
+#Nombres de los integrantes: Luis Muñoz y Dayana Levicoy 
+
 suma = 0
 a = 500
 b = 456

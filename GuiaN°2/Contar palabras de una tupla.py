@@ -1,3 +1,5 @@
+#Nombres de los integrantes: Luis Muñoz y Dayana Levicoy 
+
 texto = input('ingresar texto: ')
 
 texto_separado = texto.split() 

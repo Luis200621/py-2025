@@ -1,3 +1,5 @@
+#Nombres de los integrantes: Luis Muñoz y Dayana Levicoy 
+
 numero = int(input('Ingresa un número para saber su factorial: '))
 
 resultado = 1 

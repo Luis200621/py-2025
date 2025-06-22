@@ -1,3 +1,5 @@
+#Nombres de los integrantes: Luis Muñoz y Dayana Levicoy 
+
 n = int(input('Ingresar la cantidad de cubos que desea ver: '))
 
 primer_impar = 1

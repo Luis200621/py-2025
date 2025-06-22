@@ -1,3 +1,5 @@
+#Nombres de los integrantes: Luis Muñoz y Dayana Levicoy 
+
 for hora in range(24):
     for minutos in range(60):
         for segundos in range(60):
